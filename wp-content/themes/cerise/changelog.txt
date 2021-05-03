@@ -1,0 +1,6 @@
+---Changes---
+2018-10-01 : Version 1.2.3 [ header image issue fixed, product template added, screenshot update ]
+2018-06-20 : Version 1.2.2 [ Minor issue fixed in header ]
+2018-02-01 : Version 1.2 [ Minor Fix ]
+2014-08-20 : Version 1.1 [ Minor CSS Fix ]
+2014-06-29 : Version 1.0 [ Released ]
